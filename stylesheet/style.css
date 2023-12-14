@@ -1,0 +1,55 @@
+
+.list {
+  display: block;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.item {
+  /* some styles */
+
+}
+
+.list > .item {
+  /* some styles */
+
+}
+
+.list .item {
+  /* some styles */
+
+}
+
+.list li {
+  /* some styles */
+
+}
+
+.list > li {
+  /* some styles */
+
+}
+
+.table {
+  background: #2e2ec9;
+  padding: 20px;
+}
+
+.table-head {
+
+}
+
+.table-row {
+  background: #850dec;
+}
+
+.table-cell {
+  background: #33b9b9;
+  padding: 20px;
+  border: 5px solid #8d2a2a;
+}
+
+.table-body {
+
+}
